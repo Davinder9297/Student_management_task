@@ -30,7 +30,7 @@ table>tbody>tr>td {
   text-align: center;
   /* background-color: red; */
 } 
-.tablepage::-webkit-scrollbar{
+.tabledata::-webkit-scrollbar{
 width: 0px;
 
 }

@@ -1,1 +1,1 @@
-export const BASE_URL='https://student-backend-cmmg.onrender.com/api/'
+export const BASE_URL='https://student-backend-apis.onrender.com/api/'
